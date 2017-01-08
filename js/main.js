@@ -40,6 +40,6 @@ function update() {
 			"<span class='showtimes'>" + showtimes.join(" | ") + "</span>";
 	}
 	else {
-		box.innerHTML = "No data";
+		box.innerHTML = "<span class='title'>No data</span>";
 	}
 }
