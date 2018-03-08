@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://lsdsoftware.com/showtimes-gear-app" version="1.0.0" viewmodes="maximized">
-    <access origin="https://www.regencymovies.com" subdomains="true"/>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://lsdsoftware.com/showtimes-gear-app" version="1.0.0" viewmodes="maximized">
+    <access origin="https://regencymovies.com" subdomains="true"/>
     <tizen:application id="zLgMwseWYd.Showtimes" package="zLgMwseWYd" required_version="2.3.2"/>
     <author href="http://lsdsoftware.com" email="hai.phan@gmail.com">Hai Phan</author>
     <content src="index.html"/>
